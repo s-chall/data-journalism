@@ -1,28 +1,24 @@
 # Data Journalism
 
-Reproducible Jupyter notebooks, analyses, and visualizations accompanying my Substack articles.
+Data analysis and visual storytelling accompanying my Substack articles.
 
-**Status:** collection scaffold. No articles or analyses have been added yet.
+## Selected stories
 
-## Articles
+No analyses are featured yet. Each entry will connect the published article to a dedicated repository containing its Jupyter notebooks, data-source documentation, visualizations, and reproduction instructions.
 
-Article links, questions, datasets, and visualizations will be listed here as they are published.
+## What each story will include
 
-## Add an analysis
+- **The reporting question:** what the analysis investigates and why it matters.
+- **The visualization:** a preview of the central chart, linked to the article.
+- **The evidence:** source links, retrieval dates, methods, and limitations.
+- **The code:** notebooks and dependencies needed to reproduce the analysis.
 
-Use the [article template](templates/article/) to document sources, methodology, findings, limitations, and reproduction steps.
+<details>
+<summary>Adding a story</summary>
 
-## Planned article structure
+Use the [article documentation template](templates/article/) when preparing an analysis. Keep the notebooks and figures in the story's own repository and add the article and repository links here when ready.
 
-```text
-article-slug/
-  README.md
-  notebooks/
-  data/README.md
-  figures/
-  requirements.txt
-```
+</details>
 
-## Other collections
-
-[Research](https://github.com/s-chall/research) · [Hackathons](https://github.com/s-chall/hackathon-prototypes) · [Educational Technology](https://github.com/s-chall/educational-technology)
+---
+[Profile](https://github.com/s-chall) · [Research](https://github.com/s-chall/research) · [Hackathons](https://github.com/s-chall/hackathon-prototypes) · [Educational Technology](https://github.com/s-chall/educational-technology)
